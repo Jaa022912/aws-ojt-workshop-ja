@@ -25,8 +25,8 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 11/05/2026 đến ngày 17/05/2026
 
-!<p align="center">
-  <img src="/images/avatar.png" alt="avatar" width="180" style="border-radius: 12px;">
+<p align="center">
+  <img src="/images/avatar.jpg" alt="avatar" width="180" style="border-radius: 12px;">
 </p>
 
 
