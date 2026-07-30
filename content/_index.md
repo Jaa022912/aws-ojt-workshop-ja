@@ -21,7 +21,7 @@ chapter: false
 
 &emsp; **Student ID:** SE193168
 
-&emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
+&emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited.
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
