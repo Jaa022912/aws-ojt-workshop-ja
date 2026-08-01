@@ -1,14 +1,14 @@
 ---
-title: "Feedback and Suggestions"
+title: "Sharing and Feedback"
 date: 2026-07-29
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-> This section provides an opportunity to share personal feedback and suggestions based on your experience in the First Cloud AI Journey program, helping the FCAJ team continuously improve future training programs.
+> This section provides an opportunity to share personal Sharing and Feedback based on your experience in the First Cloud AI Journey program, helping the FCAJ team continuously improve future training programs.
 
-# Feedback and Suggestions
+# Sharing and Feedback
 
 ## General Evaluation
 

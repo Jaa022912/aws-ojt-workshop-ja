@@ -1,5 +1,5 @@
 ---
-title: "Events Attended"
+title: "Events Participated"
 date: 2026-07-28
 weight: 4
 chapter: false
