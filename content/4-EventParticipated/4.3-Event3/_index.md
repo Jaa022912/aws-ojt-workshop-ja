@@ -105,7 +105,7 @@ This activity created an exciting atmosphere and allowed participants to experie
 
 # Event Photos
 
-![Seminar AI From Scratch](pic1.jpg)
+![Seminar AI From Scratch](1.jpg)
 
 *Figure 1. The "AI From Scratch" Seminar held at the FPT with participation from AWS Vietnam engineers.*
 
@@ -113,7 +113,7 @@ This activity created an exciting atmosphere and allowed participants to experie
 
 ## AWS First Cloud AI Journey Community
 
-![AWS First Cloud AI Journey Community](pic2.jpg)
+![AWS First Cloud AI Journey Community](2.jpg)
 
 *Figure 2. The AWS First Cloud AI Journey Facebook Community, where members can receive event updates, access learning resources, and connect with the community.*
 
