@@ -23,7 +23,7 @@ The platform solves three core challenges in Cloud Operations (CloudOps):
 
 - **Zero-Trust Security (Cross-Account STS):** Uses `sts:AssumeRole` to generate temporary, short-lived audit credentials without storing long-term AWS Access Keys.
 - **100% Serverless Architecture:** Built on AWS Lambda, Amazon API Gateway, and Amazon EventBridge with $0 idle cost.
-- **Single-Table Design (Amazon DynamoDB):** High-performance NoSQL schema tailored for multi-tenant cloud audit data.
+- **Multi-Table Design (Amazon DynamoDB):** Four dedicated tables (projects, resources, insights, alerts) sharing `project_id` Partition Key for tenant isolation, with one GSI (`resource_type-index`) on `ai-advisor-resources` for cross-project queries.
 - **Generative AI Copilot (Amazon Bedrock):** Powered by Claude 3 Haiku for automated insights and real-time infrastructure Q&A.
 
 ---

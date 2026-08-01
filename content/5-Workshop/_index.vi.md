@@ -23,7 +23,7 @@ Hệ thống giải quyết 3 thách thức cốt lõi trong Vận hành Đám m
 
 - **Bảo mật Zero-Trust (Cross-Account STS):** Sử dụng `sts:AssumeRole` tạo credential tạm thời ngắn hạn, không lưu giữ Access Key dài hạn của khách hàng.
 - **Kiến trúc Serverless 100%:** Xây dựng trên AWS Lambda, Amazon API Gateway, Amazon EventBridge giúp chi phí duy trì nhàn rỗi xấp xỉ $0.
-- **Thiết kế Single-Table (Amazon DynamoDB):** Schema NoSQL tối ưu cho truy vấn dữ liệu kiểm toán đa người dùng (multi-tenant) độ trễ cực thấp.
+- **Thiết kế Multi-Table (Amazon DynamoDB):** Bốn bảng chuyên biệt (projects, resources, insights, alerts) dùng chung `project_id` Partition Key để cách ly tenant, cùng 1 GSI (`resource_type-index`) trên `ai-advisor-resources` cho truy vấn cross-project.
 - **Generative AI Copilot (Amazon Bedrock):** Tích hợp Claude 3 Haiku tự động tạo báo cáo và trò chuyện trực tiếp về hạ tầng.
 
 ---
