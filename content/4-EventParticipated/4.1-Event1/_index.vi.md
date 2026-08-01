@@ -127,7 +127,7 @@ Sự kiện cũng giúp mình giao lưu với nhiều thực tập sinh đến t
 
 
 
-![Cloud Architect Competition](pic1.jpg)
+![Cloud Architect Competition](event1.1.jpg)
 
 *Hình 1. Các đội tham gia Cloud Architect Competition tại văn phòng AWS.*
 
@@ -135,7 +135,7 @@ Sự kiện cũng giúp mình giao lưu với nhiều thực tập sinh đến t
 
 ## Tổng quan sự kiện 
 
-![Competition](pic2.jpg)
+![Competition](event1.2.jpg)
 
 *Hình 2. Các đội và các anh chị trong buổi sự kiện đó.*
 
