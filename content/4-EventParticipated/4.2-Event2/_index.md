@@ -36,7 +36,7 @@ The objectives of the event were:
 
 ## Event Banner
 
-![FCAJ Community Day](banner.jpg)
+![FCAJ Community Day](poster.jpg)
 
 *Figure 1. Official banner of the AWS First Cloud AI Journey Community Day – June 2026.*
 
@@ -106,7 +106,7 @@ Participating online also allowed me to replay important sections of the livestr
 
 # Event Photos
 
-![Community Day](pic1.jpg)
+![Community Day](pic1.jpeg)
 
 *Figure 2. AWS First Cloud AI Journey Community Day – June 2026 held at the AWS office.*
 
