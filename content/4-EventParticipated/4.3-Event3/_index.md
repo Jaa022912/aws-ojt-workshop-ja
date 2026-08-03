@@ -105,7 +105,7 @@ This activity created an exciting atmosphere and allowed participants to experie
 
 # Event Photos
 
-![Seminar AI From Scratch](1.jpg)
+![Seminar AI From Scratch](1.png)
 
 *Figure 1. The "AI From Scratch" Seminar held at the FPT with participation from AWS Vietnam engineers.*
 

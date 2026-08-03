@@ -125,7 +125,7 @@ The event also allowed me to interact with many interns from different teams, ex
 
 # Event Photos
 
-![Cloud Architect Competition](pic1.jpg)
+![Cloud Architect Competition](event1.1.jpg)
 
 *Figure 1. Participants of the Cloud Architect Competition at the AWS office.*
 
@@ -133,7 +133,7 @@ The event also allowed me to interact with many interns from different teams, ex
 
 ## Event Overview
 
-![Competition](pic2.jpg)
+![Competition](event1.2.jpg)
 
 *Figure 2. Participants and organizers during the Cloud Architect Competition.*
 

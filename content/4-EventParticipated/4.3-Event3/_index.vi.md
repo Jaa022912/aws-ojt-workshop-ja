@@ -105,7 +105,7 @@ Trò chơi đã mang lại không khí vui vẻ, hào hứng và khép lại ch�
 
 # Hình ảnh sự kiện
 
-![Seminar AI From Scratch](1.jpg)
+![Seminar AI From Scratch](1.png)
 
 *Hình 1. Seminar "AI From Scratch" được tổ chức tại trường đại học FPT với sự tham gia của các chuyên gia AWS Vietnam.*
 
