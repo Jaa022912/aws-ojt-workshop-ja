@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày 11/05/2026 đến ngày 17/05/2026
+&emsp; **Thời gian thực tập:** Từ ngày 11/05/2026 đến ngày 17/08/2026
 
 <p align="center">
   <img src="/aws-ojt-workshop-ja/images/avatar.jpg" alt="avatar" width="180" style="border-radius: 12px;">
